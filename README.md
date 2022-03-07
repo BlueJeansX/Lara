@@ -1,2 +1,2 @@
 # Lara
-Personal education purpose
+Primjer autentikacije korisnika - napravljeno pomocu Laravel UI paketa
